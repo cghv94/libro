@@ -1,0 +1,141 @@
+---
+title: "Título de mi libro"
+author: "Cesar Hernández, David Luna"
+date: "Turing Lab | 5 de octubre de 2021"
+output: 
+  rmdformats::readthedown:
+    fig_caption: yes
+    number_sections: yes
+    self_contained: yes
+    highlight: espresso
+    css: style.css
+---
+
+<div id="hola">
+<table border="0" class="center">
+<td><img src="https://cghv94.github.io/logoparalibro.jpg"></td>
+<td><form action="https://turinglab.shinyapps.io/inicio"><input type="submit" value="Turing Lab" /></form></td>
+<td><form action="https://turinglab.shinyapps.io/inicio"><input type="submit" value="Turing Fianace" /></form></td>
+<td><form action="https://turinglab.shinyapps.io/inicio"><input type="submit" value="Turing Language" /></form></td>
+<td><form action="https://turinglab.shinyapps.io/inicio"><input type="submit" value="Turing Legal" /></form></td>
+<td><form action="https://turinglab.shinyapps.io/inicio"><input type="submit" value="Turing Maps" /></form></td>
+</table>
+</div>
+
+<div id="titulolibro">
+<center style="color: black;font-size: 300%">
+<b>Título de mi libro</b>
+</center>
+</div>
+
+# Introducción
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+# Capítulo de gatos
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+*Puedes escribir en cursivas*
+
+`Texto subrayado`
+
+**O negritas**
+
+También puedes poner imágenes:
+
+</br><center>![](imagen-ejemplo.png){weight="150"}</center></br>
+
+[O hipervínculos, por ejemplo a Google](https://www.google.com.mx/)
+
+<div></br>
+
+## Capítulo de gatos, sección 1
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+### Capítulo de gatos, subsección 1
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+## Capítulo de gatos, sección 2
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+### Capítulo de gatos, subsección 2
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+# Capítulo de perros
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+## Capítulo de perros, sección 1
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+### Capítulo de perros, subsección 1
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+## Capítulo de perros, sección 2
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+### Capítulo de perros, subsección 2
+
+<div class=text-justify>
+
+Aquí se puede escibir texto. los parámetros que "div class=text-justify" son para justificar el texto. Como se puede ver en este código, en la parte de arriba se abre el div y en la parte de abajo se cierra. De no ponerse ambos parámetros el texto no se verá justificado.
+
+<div></br>
+
+# Referencias
+
+<div class=text-justify>
+
+1.  Referencia uno
+
+2.  Referencia dos
+
+3.  Referencia tres
+
+<div></br>
